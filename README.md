@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbuShrek
+- 👋 Hi, I’m @AbuShrek but you can refer to me as Grucci or Abu
 - 👀 I’m interested in 3d modelling
 - 🌱 I’m currently learning how to 3d model and lua scripting
 - 💞️ I’m looking to collaborate on nothing
